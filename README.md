@@ -22,7 +22,7 @@ Because this program uses Global Keyboard Hooks to detect and send keypresses wh
 ## Installation & Usage
 
 ### For Users (Fastest)
-1. Go to the [Releases](link-to-your-github-release) page.
+1. Go to the [Releases](https://github.com/mannygamer29/virtual-piano-player/releases/tag/Release) page.
 2. Download the `VirtualPianoStepper.zip` file.
 3. Extract the folder to your Desktop.
 4. Right-click `main.exe` and select **Run as Administrator**.
